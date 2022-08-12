@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Popol2411
-- 👀 I’m interested in Web-Development, HTML, CSS, JS and more...
-- 🌱 I’m currently learning all the basics from HTML to JS!
+- 👀 I’m interested in HTML, CSS, JavaScript, React, Angular and more...
 - 💞️ I’m looking to collaborate on interesting projects and ideas
 - 📫 How to reach me: via LinkedIn or by mail at jeanpaulburion@yahoo.com
 
