@@ -7,7 +7,7 @@
 #### 💞️ I’m looking to collaborate on interesting projects and ideas
 
 
-#### 📫 How to reach me: via GitHub or by mail at jeanpaulburion@yahoo.com
+#### 📫 You can reach me via GitHub or by mail at jeanpaulburion@yahoo.com
 
 <!---
 Popol2411/Popol2411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
