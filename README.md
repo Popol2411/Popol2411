@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @Popol2411
+### 👋 Hi, I’m Jean-Paul, or just Paul if you prefer.
 
 
 #### 👀 I’m interested in HTML, CSS, JavaScript, React, Angular and more...
