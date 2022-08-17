@@ -29,15 +29,12 @@ You can click the Preview link to take a look at your changes.
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 <br>
-<img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-ar21.svg" alt="chrome" width="40" height="40"/> </a>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="40" height="40"/> </a>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" width="40" height="40"/> </a>
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="postgresql" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
 <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="jest" width="40" height="40"/> </a>  
-<br>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="40" height="40"/> </a> 
 </p>
