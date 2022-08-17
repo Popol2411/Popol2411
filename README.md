@@ -18,8 +18,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css3" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="40" height="40"/> </a>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="40" height="40"/> </a> 
 <img src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" alt="netlify" width="40" height="40"/> </a> 
 <br>
 <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="jquery" width="40" height="40"/> </a>
