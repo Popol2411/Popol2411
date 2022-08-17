@@ -1,6 +1,6 @@
-## 👋 Hi, I’m @Popol2411
-### 👀 I’m interested in HTML, CSS, JavaScript, React, Angular and more...
-### 💞️ I’m looking to collaborate on interesting projects and ideas
+### 👋 Hi, I’m @Popol2411
+#### 👀 I’m interested in HTML, CSS, JavaScript, React, Angular and more...
+#### 💞️ I’m looking to collaborate on interesting projects and ideas
 #### 📫 How to reach me: via LinkedIn or by mail at jeanpaulburion@yahoo.com
 
 <!---
