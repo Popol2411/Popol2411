@@ -1,13 +1,15 @@
 ### 👋   Hi, I’m Jean-Paul, or just Paul if you prefer.
 
 
-#### 👀  I’m interested in HTML, CSS, JavaScript, React, Angular and more...
+#### 👀  I’m interested in JavaScript, TypeScript, React, Angular and more...
 
 
 #### 💞️  I’m looking to collaborate on interesting projects and ideas
 
 
-#### 📫  You can reach me via GitHub or by mail at jeanpaulburion@gmail.com
+#### 📫  You can reach me here via GitHub or by mail at jeanpaulburion@gmail.com
+
+#### :arrow_right: jeanpaulburion.com
 
 <!---
 Popol2411/Popol2411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
