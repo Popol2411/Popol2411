@@ -9,7 +9,7 @@
 
 #### 📫  You can reach me here via GitHub or by mail at jeanpaulburion@gmail.com
 
-#### :arrow_right: jeanpaulburion.com
+#### :arrow_right: http://www.jeanpaulburion.com
 
 <!---
 Popol2411/Popol2411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
